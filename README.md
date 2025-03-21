@@ -2,4 +2,4 @@
 
 #### python model.py
 #### python app.py
-#### redirect to https://localhost:5000
+#### redirect to http://localhost:5000/
